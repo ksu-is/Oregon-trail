@@ -7,5 +7,5 @@
 7. If code does not work, check what is wrong with it, and ask for help if needed. -DONE
 8. Work on PowerPoint for presentation. -DONE
 9. Have a friend test the code to make sure that it is working and ask for feedback. -DONE
-10. Use Feedback to improve code. -Done
-11. Implement final coding into the game.
+10. Use Feedback to improve code. -DONE
+11. Implement final coding into the game. -DONE
